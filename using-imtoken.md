@@ -24,7 +24,7 @@
 
 ![](/assets/IMG_9289.PNG)
 
-### 3. Input Our Token Distribution Smart Contract Address and Set GAS Price to 9 GWEI or higher and GAS to 65000
+### 3. Input Our Token Distribution Smart Contract Address and Set GAS Price to 9 GWEI or higher and GAS to 85000
 
 ![](/assets/IMG_9287.PNG)
 

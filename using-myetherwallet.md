@@ -10,8 +10,8 @@ Simply visit [MyEtherWallet](https://www.myetherwallet.com/), enter a strong pas
 
 * Step 1: Simply click “Send Ether & Tokens”.
 * Step 2: Select your wallet and connect to it.
-* Step 3: Select “ETH” and set Gas Limit to 65000 ，Now all you must do is fill out the Wallet you want to send Ether to, and how much you want to send.
-*  Step 4: Click "Generate transaction" and then "Send transaction".
+* Step 3: Select “ETH” and set Gas Limit to 85000 ，Now all you must do is fill out the Wallet you want to send Ether to, and how much you want to send.
+* Step 4: Click "Generate transaction" and then "Send transaction".
 
 ![](/assets/5c1708b6-f1a2-44cb-8108-96310adbce36.png)
 
@@ -28,11 +28,5 @@ Simply visit [MyEtherWallet](https://www.myetherwallet.com/), enter a strong pas
 
 ![](/assets/4a960a2b-252a-4fd9-96fa-f9fd74ed02ce.png)
 
-![](/assets/18e31ffe-3b7e-45e2-be27-67b32e81bbc7.png) 
-
-
-
-
-
-
+![](/assets/18e31ffe-3b7e-45e2-be27-67b32e81bbc7.png)
 
