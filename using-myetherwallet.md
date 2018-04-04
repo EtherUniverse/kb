@@ -15,7 +15,7 @@ Simply visit [MyEtherWallet](https://www.myetherwallet.com/), enter a strong pas
 
 ![](/assets/5c1708b6-f1a2-44cb-8108-96310adbce36.png)
 
-![](/assets/1f77de4a-676b-4cfb-b5d3-1882a2a33a0c.png)
+![](/assets/178c3a44-2121-4a62-9e51-c5bf9311c4f8.png)
 
 # Add ETU Token
 
