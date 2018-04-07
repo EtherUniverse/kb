@@ -34,7 +34,7 @@ In the current Angel Round token distribution, the exchange rate is 1 ETH = 1 mi
 
 ### Transfer failed?
 
-Make sure that GAS is set to 65000 and GWEI is set to 9 or higher. This may be useful if you use ImToken as your wallet.
+Make sure that GAS is set to 85000 and GWEI is set to 9 or higher. This may be useful if you use ImToken as your wallet.
 
 ### How long will Angel Round last?
 
